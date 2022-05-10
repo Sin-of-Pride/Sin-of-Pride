@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sin-of-Pride
+- 👋 Hi, I’m Mehul Sharma
 - 👀 I’m interested in Anime
 - 🌱 I’m currently learning Python and Data science
 - 💞️ I’m looking to collaborate on Tinder
