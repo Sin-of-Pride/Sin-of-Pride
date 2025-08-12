@@ -124,22 +124,6 @@ me.say_hi()
 - 🗺️ Created comprehensive geospatial visualizations
 - 🔗 Discovered correlations between socioeconomic factors and security patterns
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sin-of-Pride&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-of-Pride&layout=compact&langs_count=8&theme=react"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sin-of-Pride&theme=react&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
