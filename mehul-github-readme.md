@@ -90,19 +90,6 @@ Hey there! I'm a **Data Science graduate** currently pursuing my **M.Tech at NIT
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sin-of-Pride&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-of-Pride&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sin-of-Pride&theme=tokyonight)
-
-</div>
-
----
 
 ## 🎯 Fun Facts About Me
 
